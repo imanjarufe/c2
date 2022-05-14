@@ -4,4 +4,6 @@
 
 - Para el hito III, se suben 4 archivos.py , una corresponde al login de usuario, modificar la cave de usuario con la sesion iniciada, crear un usuario y reestablecer la contraseña sin inicio de sesion. Esto se implementa para la pag2 que en este caso corresponde a la pagina europea y tiene el siguiente link https://www.eurail.com/es . Y tambien se implementa lo mismo para la pag1 que en este caso corresponde a la pagina chilena y tiene el siguiente link https://www.linio.cl .
 
-- Para evidenciar las automatizaciones solicitadas para la pagina europea se presenta el siguiente link, https://youtu.be/bANGkldeEhM , el cual contiene un video con dichas automatizaciones en conjunto.
+- Para evidenciar las automatizaciones solicitadas para el sitio web europeo se presenta el siguiente link, https://youtu.be/bANGkldeEhM , el cual contiene un video con dichas automatizaciones en conjunto.
+
+- Para evidenciar las automatizaciones solicitadas para el sitio web chileno se presenta el siguiente link,https://youtu.be/G2jMUAiNwkA , el cual contiene un video con dichas automatizaciones en conjunto.
